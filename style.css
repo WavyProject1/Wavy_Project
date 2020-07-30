@@ -1,0 +1,93 @@
+/*just_styles / Wavy Project */
+
+*{
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+
+body{
+  background: url(text/wavy.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+}
+
+}
+
+body{
+  background: url(img/back.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+}
+
+.header{
+font-family: 'Roboto', sans-serif;
+color: #fff;
+padding-top: 50px;
+font-size: 36px;
+}
+
+
+.subhead{
+  font-family: 'Raleway', sans-serif;
+  color: #fff;
+}
+
+
+.sec_head button{
+  background: none;
+  border: 1px #9999CC solid;
+  color: #9966CC;
+  width: 250px;
+  font-family: 'Raleway', sans-serif;
+  height: 45px;
+  border-radius: 25px;
+  cursor: pointer;
+    transition: 0.2s;
+    margin-bottom: 50px;
+    margin-top: 15px;
+
+body{
+  background: url(img/Wavy.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 50%;
+}
+
+}
+
+.sec_head button i{
+  margin-right: 10px;
+}
+
+.sec_head button:hover{
+  background:#7289DA;
+  color: #fff;
+  transition: 0.4s;
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+.sec_body button{
+  background: none;
+  border: 1px #fff solid;
+  color: #fff;
+  width: 120px;
+  font-family: 'Raleway', sans-serif;
+  height: 30px;
+  border-radius: 15px;
+    cursor: pointer;
+      transition: 0.4s;
+      margin-top: 50px;
+      margin-bottom: 50px;
+
+}
+
+
